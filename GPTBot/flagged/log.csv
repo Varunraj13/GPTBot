@@ -1,0 +1,127 @@
+input_text,output,flag,username,timestamp
+give a code for adding of two numbers in c language,"?
+
+if u want to add two number then like this: #include<stdio.h> int main() { int a,b,c; printf(""enter two numbers
+
+""); printf(""enter first number
+
+""); scan",,,2023-06-01 10:42:34.161308
+Email,"Please select a sub-prompt: Introductory Mail, Approval Mail, Leave Application Mail",,,2023-06-01 10:50:28.940829
+Email,"Please select a sub-prompt: Introductory Mail, Approval Mail, Leave Application Mail",,,2023-06-01 10:50:30.486436
+give me a sample Email to write,"You selected Email. What would you like to know about email?
+
+- Introductory Mail
+- Approval Mail
+- Leave Application Mail",,,2023-06-01 10:53:05.982061
+give me a sample Email to write,"You selected Email. What would you like to know about email?
+
+- Introductory Mail
+- Approval Mail
+- Leave Application Mail",,,2023-06-01 10:53:07.679017
+,"Report:
+
+[Enter Report Content]",,,2023-06-01 11:13:32.364277
+Email,,,,,2023-06-01 11:17:24.792833
+Content,"Quantifying Numbers
+
+
+Occasionally, the graders may request a sentence with numbers. Consider the series of pictures in Figure 9.3. What is the total distance between the homes? It would be acceptable to write: The distance is",,,2023-06-01 11:22:22.039766
+Content,"Quantifying Numbers
+
+
+Occasionally, the graders may request a sentence with numbers. Consider the series of pictures in Figure 9.3. What is the total distance between the homes? It would be acceptable to write: The distance is",,,2023-06-01 11:22:24.940207
+give me a sample mail,,,,2023-06-01 11:25:22.258283
+,,,2023-06-01 11:40:28.527960
+hello,"hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello",,,2023-06-01 11:45:41.620438
+hello,"hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello
+
+hello",,,2023-06-01 11:45:43.386669
+Finanaical Report ,"I would be happy to help you with a financial report. Please provide additional information about what type of financial report you need, such as what it will be used for, what financial data you have available, and any specific requirements you may have. Additionally, please let me know if you have any preferred formatting or if the report will have to include any specific calculations or data analysis. This information will help me better understand your needs and tailor a report to suit your requirements effectively.",,,2023-06-01 14:03:47.276400
+abcd,"I'm sorry, but I'm not sure what you mean by ""abcd"". Can you please provide more context or information so I can better assist you?",,,2023-06-01 14:04:25.161499
+Introductory Mail for a Company,"'Dear [Company Name],
+
+I hope this email finds you well. My name is [Your Name] and I am a financial expert specializing in real estate investment and negotiation. I have been following your company's success and have been impressed with your innovative and forward-thinking approach to the industry.
+
+As someone who values the importance of strategic investment and negotiation, I believe I can offer a unique perspective to help your company achieve even greater success in the real estate market. My expertise includes analyzing market trends, identifying investment opportunities and evaluating potential risks to ensure a solid return on investment.
+
+I would welcome the opportunity to discuss how I can contribute to your team's success and help achieve your business goals. Please feel free to contact me with any questions or to schedule a meeting.
+
+Thank you for considering my services.
+
+Best regards,
+[Your Name]",,,2023-06-01 15:25:54.407086
+Introductory Mail for a Company,"'Dear [Company Name],
+
+I hope this email finds you well. My name is [Your Name] and I am a financial expert specializing in real estate investment and negotiation. I have been following your company's success and have been impressed with your innovative and forward-thinking approach to the industry.
+
+As someone who values the importance of strategic investment and negotiation, I believe I can offer a unique perspective to help your company achieve even greater success in the real estate market. My expertise includes analyzing market trends, identifying investment opportunities and evaluating potential risks to ensure a solid return on investment.
+
+I would welcome the opportunity to discuss how I can contribute to your team's success and help achieve your business goals. Please feel free to contact me with any questions or to schedule a meeting.
+
+Thank you for considering my services.
+
+Best regards,
+[Your Name]",,,2023-06-01 15:25:58.508462
+GIve me an idea for a project in financial field ,"One potential project idea in the financial field could be to develop an automated investment platform that utilizes machine learning algorithms to create personalized investment portfolios for individuals based on their unique financial situations and long-term goals. The platform could gather data from various sources, such as an individual's income, expenses, assets, and debt, as well as their risk tolerance and investment preferences, and use this information to suggest tailored investment strategies.
+
+Some potential features of this platform could include automated rebalancing of portfolios based on changing market conditions, real-time tracking of investments and performance metrics, and the ability for users to receive regular updates and alerts via mobile or desktop notifications. By streamlining the investment process and making it more accessible to a wider range of individuals, this platform could potentially help democratize investment and bring greater financial stability to a broader population.",,,2023-06-01 15:27:21.930436
+Sample Sales PPT ,,,,2023-06-01 17:35:38.144000
+Introductory Mail for a Company,,,,2023-06-02 16:05:13.760188
